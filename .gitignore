@@ -1,0 +1,8 @@
+
+// target files
+**/target
+
+// config files & class files
+.settings
+.project
+.classpath
